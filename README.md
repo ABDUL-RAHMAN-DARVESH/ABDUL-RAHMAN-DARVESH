@@ -8,15 +8,11 @@ Welcome to my GitHub profile! I'm an intermediate Data Analyst with a keen inter
 - **Generative AI:** Exploring innovative techniques and models.
 - **NLP:** Diving into text processing, sentiment analysis, and language models.
 
-## 🚀 Current Projects
-
-- **[Generative AI Exploration](link):** Working on models and techniques for data and content generation.
-- **[NLP Sentiment Analysis](link):** Implementing and analyzing sentiment in textual data.
-
 ## 🌟 Featured Repositories
 
-- **[Project Name](link):** Brief description of what this project is about.
-- **[Project Name](link):** Brief description of what this project is about.
+- **[Game Data Sales Analysis](https://www.kaggle.com/code/abdulrahmandarvesh/game-data-sales-analysis):** This project uses Python to analyze and visualize video game sales data to uncover trends and insights for optimizing marketing and development strategies.
+- **[ Nifty Index Analysis (Feb 2023 - Feb 2024](https://www.kaggle.com/code/abdulrahmandarvesh/nifty-index-analysis-feb-23-feb-24):** Analyzes the Nifty Index from February 2023 to February 2024, focusing on data cleaning, trend analysis, and visualization to uncover market trends and insights for investors.
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/abdulrahmandarvesh06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmandarvesh06" height="30" width="40" /></a> 
