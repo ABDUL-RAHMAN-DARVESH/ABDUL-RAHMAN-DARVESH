@@ -18,7 +18,8 @@ Welcome to my GitHub profile! I'm an intermediate Data Analyst with a keen inter
 <a href="https://www.linkedin.com/in/abdulrahmandarvesh06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahmandarvesh06" height="30" width="40" /></a> 
 <a href="https://fb.com/ftp.fran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ftp.fran" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/darve_sh__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jack_the_ripper_08_" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamma45476883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma45476883" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abdulrahmandarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-username" height="30" width="40" /></a>
+
 
 ## 🌐 Connect with Me
 
