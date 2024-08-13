@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an intermediate Data Analyst with a keen inter
 ## 🌟 Featured Repositories
 
 - **[Game Data Sales Analysis](https://www.kaggle.com/code/abdulrahmandarvesh/game-data-sales-analysis):** This project uses Python to analyze and visualize video game sales data to uncover trends and insights for optimizing marketing and development strategies.
-- **[ Nifty Index Analysis (Feb 2023 - Feb 2024](https://www.kaggle.com/code/abdulrahmandarvesh/nifty-index-analysis-feb-23-feb-24):** Analyzes the Nifty Index from February 2023 to February 2024, focusing on data cleaning, trend analysis, and visualization to uncover market trends and insights for investors.
+- **[ Nifty Index Analysis (Feb 2023 - Feb 2024)](https://www.kaggle.com/code/abdulrahmandarvesh/nifty-index-analysis-feb-23-feb-24):** Analyzes the Nifty Index from February 2023 to February 2024, focusing on data cleaning, trend analysis, and visualization to uncover market trends and insights for investors.
 
 
 <h3 align="left">Connect with me:</h3>
