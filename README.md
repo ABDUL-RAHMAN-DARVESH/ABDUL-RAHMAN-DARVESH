@@ -8,6 +8,10 @@ Welcome to my GitHub profile! I'm an intermediate Data Analyst with a keen inter
 - **Generative AI:** Exploring innovative techniques and models.
 - **NLP:** Diving into text processing, sentiment analysis, and language models.
 
+## 💻 Portfolio
+
+### Check out my [PORTFOLIO WEBSITE](https://abdul-rahman-darvesh.github.io/Darvesh-Portfolio/) for more about my work and projects.
+
 ## 🌟 Featured Repositories
 
 - **[Game Data Sales Analysis](https://www.kaggle.com/code/abdulrahmandarvesh/game-data-sales-analysis):** This project uses Python to analyze and visualize video game sales data to uncover trends and insights for optimizing marketing and development strategies.
